@@ -11,5 +11,6 @@ Seamless database integration using PHP.
 Simple and clean implementation of CRUD operations.
 Technologies Used
 HTML: Frontend form design.
+Bootstrap : Enhansing the design.
 PHP: Server-side scripting.
 MySQL: Database management.
